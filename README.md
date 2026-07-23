@@ -51,10 +51,10 @@
 <br clear="both">
 <br><br>
 
-<h1>🌙 About me</h1>
 <div>
-  <img align="right" height="300" src="https://files.catbox.moe/r0xana.png" style="margin-left: 15px;" />
+  <img align="right" height="300" src="https://files.catbox.moe/r0xana.png" />
   <br>
+  <h3><big>🌙 About me</big></h3>
   <p>
     📚 IT Management Student<br>
     📊 Currently focusing on Python, Databases, and Software Development<br>
