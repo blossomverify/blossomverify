@@ -51,22 +51,17 @@
 <br clear="both">
 <br><br>
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3><big>🌙 About me</big></h3>
-      <p>
-        📚 IT Management Student<br>
-        📊 Currently focusing on Python, Databases, and Software Development<br>
-        🧠 Passionate about AI and Automation<br>
-        ⚙️ Experienced with automation workflows, VS Code, and APIs<br>
-        📈 Building my portfolio and looking for tech opportunities
-      </p>
-    </td>
-    <td valign="top">
-      <img height="300" src="https://files.catbox.moe/r0xana.png" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="right" height="300" src="https://files.catbox.moe/r0xana.png" />
+  <br>
+  <h3><big>🌙 About me</big></h3>
+  <p>
+    📚 IT Management Student<br>
+    📊 Currently focusing on Python, Databases, and Software Development<br>
+    🧠 Passionate about AI and Automation<br>
+    ⚙️ Experienced with automation workflows, VS Code, and APIs<br>
+    📈 Building my portfolio and looking for tech opportunities
+  </p>
+</div>
 
 <br clear="both">
