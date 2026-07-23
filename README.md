@@ -53,3 +53,19 @@
 <h4 data-importer="text" align="left">↻ ◁ II ▷ ↺ 0:45 ───ㅇ───── 4:59</h4>
 
 ###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<img data-importer="image" align="right" height="300" src="https://files.catbox.moe/r0xana.png"  />
+
+###
+
+<h1 data-importer="text" align="left">🌙 About me</h1>
+
+###
+
+<p data-importer="text" align="left">📚 IT Management Student<br>📊 Currently focusing on Python, Databases, and Software Development<br>🧠 Passionate about AI and Automation<br>⚙️ Experienced with automation workflows, VS Code, and APIs<br>📈 Building my portfolio and looking for tech opportunities</p>
+
+###
