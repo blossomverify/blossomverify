@@ -15,8 +15,8 @@
   <br>
 
   <!-- GitHub Stats (Tema Tokyonight) -->
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/blossomverify">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blossomverify&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   
 </div>
