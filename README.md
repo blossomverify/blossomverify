@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </div>
-
+</div>
 ###
 
 <img data-importer="image" align="left" height="150" src="https://files.catbox.moe/8wlfu8.png"  />
@@ -69,3 +69,4 @@
 <p data-importer="text" align="left">📚 IT Management Student<br>📊 Currently focusing on Python, Databases, and Software Development<br>🧠 Passionate about AI and Automation<br>⚙️ Experienced with automation workflows, VS Code, and APIs<br>📈 Building my portfolio and looking for tech opportunities</p>
 
 ###
+</div>
