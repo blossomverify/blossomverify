@@ -56,11 +56,11 @@
   <br>
   <h3><big>🌙 About me</big></h3>
   <p>
-    📚 IT Management Student<br>
-    📊 Currently focusing on Python, Databases, and Software Development<br>
-    🧠 Passionate about AI and Automation<br>
-    ⚙️ Experienced with automation workflows, VS Code, and APIs<br>
-    📈 Building my portfolio and looking for tech opportunities
+    👨‍💻 IT Management Student<br>
+    🐍 Currently focusing on Python, Databases, and Software Development<br>
+    💡 Passionate about AI and Automation<br>
+    🛠️ Experienced with automation workflows, Git, and APIs<br>
+    🎯 Building my portfolio and looking for tech opportunities
   </p>
 </div>
 
