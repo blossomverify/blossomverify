@@ -14,14 +14,32 @@
   <br>
   <br>
 
-  <!-- GitHub Stats (Tema Tokyonight) -->
-  <a href="https://github.com/blossomverify">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blossomverify&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
+  <!-- Tecnologias -->
+  <h3>👨‍💻 Tecnologias e Ferramentas</h3>
+  <div>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </div>
+
+  <br>
+  <br>
+
+  <!-- GitHub Stats (Tema NightOwl) -->
+  <div>
+    <a href="https://github.com/blossomverify">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blossomverify&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/blossomverify">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blossomverify&layout=compact&theme=nightowl" alt="Top Languages"/>
+    </a>
+  </div>
   
 </div>
 
 <br>
 
 ### Olá! 👋 
-Aqui você pode adicionar uma breve descrição sobre você.
+Sou um desenvolvedor apaixonado por tecnologia.
