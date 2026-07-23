@@ -52,7 +52,7 @@
 <br><br>
 
 <div>
-  <img align="right" height="300" src="https://files.catbox.moe/r0xana.png" />
+  <img align="left" height="300" src="https://files.catbox.moe/r0xana.png" style="margin-right: 25px;" />
   <br>
   <h3><big>🌙 About me</big></h3>
   <p>
